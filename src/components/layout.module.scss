@@ -1,0 +1,64 @@
+@import '../variables.scss';
+
+.header, .footer {
+  width: 100%;
+  color: white;
+  background: $header-color;
+  margin: 0;
+  padding: 0 15px;
+
+  height: 40px;
+  display: flex;
+  align-items: space-between;
+
+  h1 {
+    font-size: 1em;
+    font-weight: 400;
+  }
+  a {
+    color: currentColor;
+    text-decoration: none;
+  }
+}
+
+.main {
+  min-height: calc(100vh - 40px);
+  padding: 15px;
+}
+
+// nav {
+// //   font-size: 16pt;
+
+// .icon-bar {
+//   background: white;
+// }
+
+.nav {
+
+  ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin-left: 50px;
+  }
+
+  li {
+    display: flex;
+    padding: 0 20px;
+    height: 100%;
+    align-items: center;
+
+    a {
+      color: white;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+
+}
+
+// }
+// }
