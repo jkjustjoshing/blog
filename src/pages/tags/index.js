@@ -13,7 +13,7 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
-    <section className="section">
+    {/* <section className="section">
       <Helmet title={`Tags | ${title}`} />
       <div className="container content">
         <div className="columns">
@@ -34,24 +34,24 @@ const TagsPage = ({
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
   </Layout>
 )
 
 export default TagsPage
 
-export const tagPageQuery = graphql`
-  query TagsQuery {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(limit: 1000) {
-      group(field: frontmatter___tags) {
-        fieldValue
-        totalCount
-      }
-    }
-  }
-`
+// export const tagPageQuery = graphql`
+//   query TagsQuery {
+//     site {
+//       siteMetadata {
+//         title
+//       }
+//     }
+//     allMarkdownRemark(limit: 1000) {
+//       group(field: frontmatter___tags) {
+//         fieldValue
+//         totalCount
+//       }
+//     }
+//   }
+// `
