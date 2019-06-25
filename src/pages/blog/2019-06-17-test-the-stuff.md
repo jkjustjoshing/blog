@@ -5,5 +5,6 @@ date: 2019-06-17T18:58:26.877Z
 description: Writing a blong post yooo
 featuredpost: true
 featuredimage: /img/jumbotron.jpg
+tags: ["run", "ultra marathon"]
 ---
 This is the body of the blog post. Huyah!
