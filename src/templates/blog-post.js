@@ -78,6 +78,16 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <meta property="twitter:card" content="summary" />
+            <meta property="twitter:title" content={post.frontmatter.title + ' | Blog'} />
+            <meta property="twitter:description" content={post.frontmatter.description} />
+            <meta property="twitter:site" content="@jkjustjoshing" />
+            {post.frontmatter.featuredimage && <meta property="twitter:image" content={post.frontmatter.featuredimage} />}
+
+            <meta property="og:title" content={post.frontmatter.title + ' | Blog'} />
+            <meta property="og:description" content={post.frontmatter.description} />
+            <meta property="og:site_name" content="Josh Kramer Blog" />
+            {post.frontmatter.featuredimage && <meta property="og:image" content={post.frontmatter.featuredimage} />}
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -105,7 +115,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        tags
+        tags,
+        featuredimage
       }
     }
   }

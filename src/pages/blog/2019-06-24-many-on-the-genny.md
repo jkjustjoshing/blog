@@ -4,7 +4,7 @@ title: Many on the Genny
 date: 2019-06-24T22:00:00.000Z
 description: 40 miles - a new distance record!
 featuredpost: false
-featuredimage: /img/many_on_the_genny_2019/selfie.jpg
+featuredimage: ./many_on_the_genny_2019/goat_factory.jpg
 tags:
   - run
   - ultra marathon
