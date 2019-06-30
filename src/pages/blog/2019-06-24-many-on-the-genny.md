@@ -20,6 +20,7 @@ tags:
 [pruny_foot]: ./many_on_the_genny_2019/pruny_foot.jpg "This is what 10 hours of mud will do to a foot"
 [muddy_legs]: ./many_on_the_genny_2019/muddy_legs.jpg "It was a bit muddy out there"
 
+![Photo of me taken by Goat Face Media in the woods at mile 22, smiling trying to hide the fact there is food in my mouth][goat_factory]
 
 Many on the Genny is a race I've thought about doing for a few years. This was the third year of the event, and I finally got up the nerve to try it. 40 miles, most of which on Letchworth State Park trails, is very intimidating. Sure, I've run the Battle at Bristol Mountain 50k 3 times, but Many on the Genny is 10 more miles than that. Now that I've done both events I would say they're actually a pretty similar level of difficulty, since Many on the Genny is 10 miles longer but only has about 40% of the elevation change.
 
@@ -44,8 +45,6 @@ While I was off in the woods breaking my running distance record, Kristen kept h
 The views during the first half of the race really highlighted the beauty of the Letchworth gorge. Every time the course went along the edge I couldn't help myself from gawking at the incredible views. Shortly after the aid station, we crossed over the Genesee River at a pedestrian bridge and started heading back north. The rock formations and landscape around the bridge was similarly incredible. Due to erosion the pedestrian bridge was not open, but Letchworth let us runners cross, as long as we promised to walk, not run. Not a problem! There's so much beautiful scenery to look at, it's probably for the best that we had to walk.
 
 ![Selfie with the stone footbridge over the Genesee River behind me][bridge_selfie]
-
-![Photo of me taken by Goat Face Media in the woods at mile 22, smiling trying to hide the fact there is food in my mouth][goat_factory]
 
 The next 5 miles were my least favorite part of the course. Gone were the beautiful views of the Gorge, and into the woods of the east side of the river. We ran for a mile on the road used by the Vale of Three Falls, which brought back some rather unpleasant memories from last month. Then a long, steep, muddy climb followed by my longest stretch without seeing anyone else. I also knew we were coming up on the Sehgahunda course, which I know fairly well, and around every turn I was hoping the course would arrive at something I recognized. Finally we emerged on Lake Road between Sehgahunda checkpoints 7 and 8 and started following the course backwards. At this point I was feeling fatigued, but strong. My knee had stopped hurting me, and I was feeling pretty confident that I would be able to finish. But I also knew that a lot can happen with 17 miles left in the race.
 
