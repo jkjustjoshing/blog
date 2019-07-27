@@ -3,7 +3,6 @@ templateKey: blog-post
 title: Candlelight 12 Hour
 date: 2019-07-23T22:00:00.000Z
 description: A 1.07 mile loop for 12 hours overnight
-featuredpost: false
 featuredimage: ./candlelight-2019.jpg
 tags:
   - run
@@ -27,4 +26,6 @@ Goals:
 * Base level of success: 50km/31miles - <span style="color: green">succeeded</span>
 
 The [Candlelight 12 Hour Ultra](https://candlelight12hour.org/) 
-This was my 3rd ultramarathon in as many fortnights, and I'm definitely starting to feel the fatigue. I've realized that doing so many races so close together is a sacrifice of quality in exchange for quantity. It's fascenating seeing how quickly I can get my body to recover, but this experience has shown that I shouldn't expect to be fully recovered 2 weeks after a race.
+This was my 3rd ultramarathon in as many fortnights, and I'm definitely starting to feel the fatigue. I've realized that doing so many races so close together is a sacrifice of quality in exchange for quantity. It's fascenating seeing how much (or little) I can get my body to recover in just 2 weeks, but this experience has shown that I shouldn't expect to be fully recovered just 14 days after a race.
+
+In preparation for the sleep deprivation of running from 7pm through 7am, I stayed up until 1am Thursday night and slept until 9am, arriving to work late on Friday. I then stayed up until 3am on Friday, and slept until 11am on Saturday. I think this shift was very helpful, and allowed me to be awake enough to complete the race and safely drive home afterwards. 
